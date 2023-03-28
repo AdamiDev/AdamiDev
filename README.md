@@ -1,6 +1,6 @@
 <div align="center">
-<img src="https://raw.githubusercontent.com/AdamiDev/AdamiDev/main/headergitdark.gif#gh-dark-mode-only" align="center" height="325" />
-<img src="https://raw.githubusercontent.com/AdamiDev/AdamiDev/main/headergitlight.gif#gh-light-mode-only" align="center" height="325" />
+<img src="https://raw.githubusercontent.com/AdamiDev/AdamiDev/main/gitdark.gif#gh-dark-mode-only" align="center" height="325" />
+<img src="https://raw.githubusercontent.com/AdamiDev/AdamiDev/main/gitlight.gif#gh-light-mode-only" align="center" height="325" />
 </div>  
 
 # <div align="center">Técnico de Informática / Estudante de Programação</div>  
