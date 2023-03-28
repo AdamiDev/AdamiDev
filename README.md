@@ -3,12 +3,12 @@
 <img src="https://raw.githubusercontent.com/AdamiDev/AdamiDev/main/gitlight.gif#gh-light-mode-only" align="center" height="325" />
 </div>  
 
-# <div align="center">Técnico de Informática / Estudante de Programação</div>  
+# <div align="center">Técnico de Informática / Bacharelando em Sistemas de Informação</div>  
 
 ### <div align="center">Meu portfólio ([github.com/AdamiDev](https://github.com/AdamiDev))</div><br />
 
-- 💻 Trabalhando como técnico de informática na [Prefeitura Municipal de Cláudio](https://www.claudio.mg.gov.br/)  
-- 🎓 Cursando Sistemas de Informação na [Faculdade Pitágoras](https://www.pitagoras.com.br/)
+- 💻 Trabalhando como técnico de informática na [Prefeitura Municipal de Cláudio.](https://www.claudio.mg.gov.br/)  
+- 🎓 Cursando Sistemas de Informação na [Faculdade Pitágoras.](https://www.pitagoras.com.br/)
 - 👨‍💻 Estou sempre procurando aprendizado na área de desenvolvimento e tecnologia.
 
 <br/> 
