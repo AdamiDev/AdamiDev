@@ -7,9 +7,9 @@
 
 ### <div align="center">Meu portfólio ([github.com/AdamiDev](https://github.com/AdamiDev))</div><br />
 
-<div align="center">- 💻 Trabalhando como técnico de informática na [Prefeitura Municipal de Cláudio.](https://www.claudio.mg.gov.br/)  
-<div align="center">- 🎓 Cursando Sistemas de Informação na [Faculdade Anhanguera.](https://www.anhanguera.com/)
-<div align="center">- 👨‍💻 Estou sempre procurando aprendizado na área de desenvolvimento e tecnologia.
+- 💻 Trabalhando como técnico de informática na [Prefeitura Municipal de Cláudio.](https://www.claudio.mg.gov.br/)  
+- 🎓 Cursando Sistemas de Informação na [Faculdade Anhanguera.](https://www.anhanguera.com/)
+- 👨‍💻 Estou sempre procurando aprendizado na área de desenvolvimento e tecnologia.
 
 <br/> 
 
